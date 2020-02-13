@@ -1,2 +1,2 @@
-# sad
-Tutorial de como baixar e utilizar a ferramenta PowerBI
+# Tutorial de como baixar e utilizar a ferramenta PowerBI.
+
